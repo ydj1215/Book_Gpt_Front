@@ -178,7 +178,7 @@ export const MemberAdminPage = () => {
           <TableBox>
             <StyledTitle>
               <img src={icon} alt="구매 책 아이콘" style={{ width: "6vw" }} />
-              &nbsp;회원 관리 페이지
+              &nbsp;회원 관리 페이지!
             </StyledTitle>
             <Table>
               <thead>
